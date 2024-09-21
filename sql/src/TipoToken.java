@@ -1,7 +1,7 @@
 public enum TipoToken {
     IDENTIFICADOR,
 
-    // Palabras reservadas
+    // Identificador genérico (por ejemplo, nombres de variables, tablas, columnas).
     AND, DISTINCT, FALSE, FROM, IS, NOT, NULL, OR, SELECT, TRUE, WHERE,
 
     COMA, SEMICOLON, DOT, LEFT_PAREN, RIGHT_PAREN,
